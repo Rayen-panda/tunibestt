@@ -1,0 +1,89 @@
+body{
+    background-color: #6b0d1c;
+}
+.cardBox{
+    display: grid;
+    grid-template-columns: repeat(4 , 1fr );
+    column-gap: 20px;
+    width: 90%;
+    margin: auto;
+    background-color:rgb(129, 0, 0);
+    border-radius: 20px;
+    
+}
+.but{
+    background-color: #a0011b; /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+button{
+    background-color: #e01537; /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+.MovieList{
+    color: #a0011b;
+    background-color: #f1c2ca;
+    margin-right: 70px;
+    margin-left: 70px;
+    border-radius: 20px;
+}
+.bar{
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px ;
+    cursor: pointer;
+    border-radius: 12px;
+    background-color: #5f5d5d;
+    
+}
+.b{
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+.se{
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    
+    border-radius: 12px;
+}
+.mv{
+   background-color: rgb(165, 137, 137);
+   margin-bottom: 20px;
+   border-radius: 20px;
+}
